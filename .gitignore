@@ -2,3 +2,5 @@
 train/
 train_contrast/
 MURA-v1.0/
+test/
+tmp/
